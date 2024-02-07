@@ -1130,6 +1130,15 @@ h6 {
   animation: myfirst 30s linear infinite;
 }
 
+ /*---------------------------------------
+  TrustLock 
+  ----------------------------------------*/
+  .trustlock {
+    max-width: auto;
+    height: 50px;
+    float: right;
+  }
+
 
 
 @-moz-keyframes myfirst {
